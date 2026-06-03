@@ -1,3 +1,6 @@
+Note on System Implementation and Source Code: > Due to security, privacy, and access constraints, the actual source code repository for the CasePoint system cannot be publicly shared. Therefore, the high-fidelity screenshots provided in this section serve as direct visual evidence of the fully implemented system and its working prototype. These figures accurately reflect the live operational state of the software, demonstrating its real-world interface, functional workflows, role-based access controls (RBAC), and AI-driven semantic search capabilities.
+
+
 High-Fidelity Interface
 This section presents the high-fidelity interfaces of CasePoint based on the implemented system screens. The figures below show near-final layout, navigation structure, visual hierarchy, and role-based functions, along with a short explanation of what each screen does in the workflow.
 <img width="975" height="525" alt="image" src="https://github.com/user-attachments/assets/64e0d375-fc39-4ad7-be2f-3f78f75aea91" />
