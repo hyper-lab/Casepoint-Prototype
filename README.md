@@ -1,3 +1,6 @@
+Actual System Demo - https://drive.google.com/file/d/1k8tJ0urh-pebos_wWS5whtAn6Dk34oPZ/view?usp=sharing
+
+
 Note on System Implementation and Source Code: > Due to security, privacy, and access constraints, the actual source code repository for the CasePoint system cannot be publicly shared. Therefore, the high-fidelity screenshots provided in this section serve as direct visual evidence of the fully implemented system and its working prototype. These figures accurately reflect the live operational state of the software, demonstrating its real-world interface, functional workflows, role-based access controls (RBAC), and AI-driven semantic search capabilities.
 
 
